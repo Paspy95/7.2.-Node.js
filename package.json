@@ -15,5 +15,10 @@
     "url": "https://github.com/Paspy95/7.2.-Node.js/issues"
   },
   "homepage": "https://github.com/Paspy95/7.2.-Node.js#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "beautify": "^0.0.8",
+    "eslint": "^9.7.0",
+    "prettier": "^3.3.3"
+  }
 }
